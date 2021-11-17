@@ -23,7 +23,7 @@ Key Findings:
 
 # Summary
 
-Based on this data, a recommendations to Pyber decision-makers could be to increase the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand, where average fares are higher, probably due to larger trips.
+Based on this data, a recommendation to Pyber decision-makers could be to increase the amount of drivers in Rural areas, where average fares are higher probably due to larger trips, to ensure there are enough drivers to meet ride demand.
 
 #Resources
 All data is available in the Resources Folder (https://github.com/jjbarrosoF2G/PyBer_Analysis/tree/main/Resources)
