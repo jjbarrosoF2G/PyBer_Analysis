@@ -23,7 +23,7 @@ Key Findings:
 
 # Summary
 
-Based on the analysis my business recommendations to Pyber are: Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
+Based on this data, a recommendations to Pyber decision-makers could be to increase the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand, where average fares are higher, probably due to larger trips.
 
 #Resources
 All data is available in the Resources Folder (https://github.com/jjbarrosoF2G/PyBer_Analysis/tree/main/Resources)
